@@ -1,7 +1,0 @@
-{
-  "name": "auto-commit",
-  "description": "just `git commit`",
-  "author": {
-    "name": "Toshimaru"
-  }
-}

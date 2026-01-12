@@ -8,13 +8,13 @@
   },
   "plugins": [
     {
-      "name": "auto-commit",
+      "name": "simple-git",
       "description": "just `git commit`",
       "version": "1.0.0",
       "author": {
         "name": "Toshimaru"
       },
-      "source": "./plugins/auto-commit",
+      "source": "./plugins/simple-git",
       "category": "development"
     }
   ]
