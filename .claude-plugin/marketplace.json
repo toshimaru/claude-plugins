@@ -9,13 +9,15 @@
   "plugins": [
     {
       "name": "simple-git",
-      "description": "just `git commit`",
+      "description": "simple git commands",
       "version": "1.0.0",
       "author": {
-        "name": "Toshimaru"
+        "name": "Toshimaru",
+        "email": "me@toshimaru.net"
       },
       "source": "./plugins/simple-git",
-      "category": "development"
+      "category": "productivity",
+      "homepage": "https://github.com/toshimaru/claude-plugins/tree/main/plugins/simple-git"
     }
   ]
 }
